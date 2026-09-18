@@ -1,0 +1,1 @@
+.registration{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2rem,10vw,12rem);background:#f3eee5}.registration>div:last-child{max-width:600px}@media(max-width:800px){.registration{grid-template-columns:1fr}}
