@@ -1,15 +1,3 @@
 [build]
   publish = "."
   functions = "netlify/functions"
-
-[[redirects]]
-  from = "http://www.westwindlabradors.com/*"
-  to = "https://westwindlabradors.com/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://www.westwindlabradors.com/*"
-  to = "https://westwindlabradors.com/:splat"
-  status = 301
-  force = true
