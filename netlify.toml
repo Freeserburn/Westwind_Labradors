@@ -1,0 +1,3 @@
+[build]
+  publish = "westwind-labradors-website-development-specification-for"
+  functions = "westwind-labradors-website-development-specification-for/netlify/functions"
